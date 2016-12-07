@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+  color: black;
+  font-family:'Ubuntu Condensed', sans-serif;
+}
+.box {
+  padding-left:50px;
+  padding-right:50px;
+}
+h1 {
+  padding-bottom:10px;
+}
+h5 {
+  padding:10px;
+}
+.quotes {
+  background-color: #CCCCCC;
+  border-color:#cccccc;
+  border-style:solid;
+  border-radius: 6px;
+}
